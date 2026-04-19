@@ -53,6 +53,7 @@ print("A soma e: ".. number1 + number2)
 
 
 -- 5 EXERCICOS
+
 --print("Digite um numero: ")
 
 --local parImpar = io.read("*number")
@@ -65,4 +66,35 @@ print("A soma e: ".. number1 + number2)
 
 
 --===============================================================--
+
+-- 6 EXERCICOS
+
+--for i = 0, 10, 1 do
+--    print(i)
+--end
+
+
+--===============================================================--
+-- 7 EXERCICIO
+
+--local number4 = 0
+
+
+--while number4 <100 do
+--    number4 = number4 + 1
+--    print(number4)
+--end
+
+
+--===============================================================--
+
+
+
+local function soma(a, b)
+
+    
+    
+end
+
+print(soma(1+1))
 
