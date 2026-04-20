@@ -1,0 +1,75 @@
+TODOS OS EXERCICIOS
+
+🟢 1. Variáveis e print
+
+Crie um programa que:
+
+Guarde seu nome em uma variável
+Guarde sua idade em outra
+
+Mostre na tela:
+
+Olá, meu nome é X e tenho Y anos
+🟢 2. Soma simples
+
+Crie duas variáveis com números e:
+
+Some elas
+Mostre o resultado com print
+🟢 3. Entrada de dados
+
+Peça ao usuário:
+
+Seu nome (io.read)
+
+Depois mostre:
+
+Bem-vindo, [nome]!
+🟢 4. Condicional (if)
+
+Crie um sistema que:
+
+Receba um número
+Se for maior que 10 → escreva "Maior que 10"
+Senão → escreva "Menor ou igual a 10"
+🟢 5. Par ou ímpar
+
+Peça um número e:
+
+Verifique se ele é par ou ímpar usando %
+Mostre o resultado
+🟢 6. Loop simples (for)
+
+Faça um for que:
+
+Conte de 1 até 10
+Mostre cada número
+🟢 7. Soma com loop
+
+Faça um programa que:
+
+Some os números de 1 até 100
+Mostre o resultado final
+🟢 8. Função básica
+
+Crie uma função:
+
+function soma(a, b)
+Retorne a soma dos dois números
+Chame a função e mostre o resultado
+
+(NÃO CONSEGUI)
+
+🟢 9. Sistema de nota
+
+Crie um programa que:
+
+Receba uma nota
+Se ≥ 7 → "Aprovado"
+Se < 7 → "Reprovado"
+🟢 10. Contador regressivo
+
+Faça um programa que:
+
+Conte de 10 até 1
+Depois mostre: "BOOM!"

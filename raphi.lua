@@ -87,27 +87,36 @@ print("A soma e: ".. number1 + number2)
 
 
 --===============================================================--
-
--- 8 EXERCICIO,  (não consegui)
-
-local function soma(a, b)
-
-    
-    
-end
-
-print(soma(1+1))
+-- 8 exercico (Não feito)
 
 
 --===============================================================--
 
 -- 9 EXERCICIO 
-print("Digite sua nota: ")
+--print("Digite sua nota: ")
 
-local nota = io.read("*number")
+--local nota = io.read("*number")
 
-if (nota >= 7) then
-    print("Aprovado!")
-else
-    print("Reprovado")
-end
+--if (nota >= 7) then
+--    print("Aprovado!")
+--else
+--   print("Reprovado!")
+--end
+
+
+--===============================================================--
+
+
+--10 EXERCICOS
+
+-- esse é mais básico:
+
+--for i = 1, 10, 1 do
+
+--    print(i)
+    
+--end
+
+--print("BOOM!")
+
+
