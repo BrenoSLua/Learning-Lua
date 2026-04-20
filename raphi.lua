@@ -88,7 +88,7 @@ print("A soma e: ".. number1 + number2)
 
 --===============================================================--
 
-
+-- 8 EXERCICIO,  (não consegui)
 
 local function soma(a, b)
 
@@ -98,3 +98,16 @@ end
 
 print(soma(1+1))
 
+
+--===============================================================--
+
+-- 9 EXERCICIO 
+print("Digite sua nota: ")
+
+local nota = io.read("*number")
+
+if (nota >= 7) then
+    print("Aprovado!")
+else
+    print("Reprovado")
+end
