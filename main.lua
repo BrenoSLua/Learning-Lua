@@ -1,3 +1,7 @@
+
+-- Este código foi feito pelo vidio aula Missão lua da petobrás: https://youtu.be/xecAdVvR3c0?list=PLJGZ8X1mZTR-0l5gRuzQG8a-v4GeGuDfg
+
+
 local seuPoint = 10
 
 
