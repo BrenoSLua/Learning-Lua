@@ -123,15 +123,17 @@ end
 
 -- corrigido (Sou muito burro):
 
+--[[
+
 function soma(a, b)
 
     return a + b
 end
 
-local resultado = soma(5543434534, 3)
+local resultado = soma(5, 3)
 print("Resultado:",resultado)
 
-
+]]
 
 
 
