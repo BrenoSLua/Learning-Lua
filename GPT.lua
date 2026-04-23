@@ -121,6 +121,20 @@ end
 --===============================================================--
 -- 8 exercico (Não feito)
 
+-- corrigido (Sou muito burro):
+
+function soma(a, b)
+
+    return a + b
+end
+
+local resultado = soma(5543434534, 3)
+print("Resultado:",resultado)
+
+
+
+
+
 
 --===============================================================--
 
