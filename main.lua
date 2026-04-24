@@ -61,6 +61,7 @@ end
 
 
 
+
 -- aqui ta pegando a função DarBonusPorNome e colocando em AddPoint assim sem precisar ficar mexendo ou mechendo toda hora
 --  e adiciona a pontuação desejada à pontuação total do user
 local function AddPoint(pontos)
