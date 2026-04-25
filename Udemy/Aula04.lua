@@ -51,3 +51,4 @@ print(5 + 5 * 5)-- 5 vezes 5 mais 5
 -- se fosse entre parenteses:
 
 print((5 + 5) * 10) -- primeiro parenteses depois o 10
+
