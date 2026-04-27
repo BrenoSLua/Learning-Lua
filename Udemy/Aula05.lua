@@ -61,3 +61,12 @@ print(type(texto1..n3))
 local texto3 = "40"
 
 print(20 + texto) --  Automaticamente Lua transforma 40 em number, mas se tivesse outro caracter/letra não funcionaria
+
+
+----
+
+
+local btr = "1010"
+
+local num  = tonumber(btr, 2) 
+print(num)
