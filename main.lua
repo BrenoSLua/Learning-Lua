@@ -26,7 +26,7 @@ local function DarBonusPorNome()
     elseif (nome == "Christoher") then
         seuPoint = seuPoint - 1000
     
-  -- caso o nome do usuário não  for Breno nem chritopher, vai adicionar +20, apesar que já sei ler isso  kksksks
+  -- caso o nome do usuário não for Breno nem chritopher, vai adicionar +20, apesar que já sei ler isso  hehe
         
     else 
         seuPoint = seuPoint + 20
