@@ -11,8 +11,8 @@ local pontuacaoBaixo = 15
 
 local inteligencia = 0
 
--- o io.read (*line) vai criar meio que um campo de texto que o usuário  pode digitar e colocar o nome que quise (io. é tipo uma pasta que ai o read ta essa pasta) 
 
+-- o io.read (*line) vai criar um campo de texto que o usuário pode digitar e colocar o nome que quise (io. é tipo uma pasta onde o read está nessa pasta) 
 local nome = io.read("*line")
 
 print ("Oi, ".. nome)

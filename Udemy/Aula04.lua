@@ -31,7 +31,7 @@ print(2^2) --  ou seja 4
 
 -------------------------------------------------------------------
 
--- também posso colcoar em variáveis:
+-- também pode colcoar em variáveis:
 local soma = 5 + 5
 print(soma)
 

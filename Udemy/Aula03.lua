@@ -1,4 +1,4 @@
--- leitura seqêncial (só pra sequir a aula...)]
+-- leitura seqêncial (só pra seguir a aula...)]
 
 --não pode:
 --[[

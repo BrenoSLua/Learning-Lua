@@ -1,4 +1,4 @@
---====== BIBLIOTECA MATH=======-----
+--====== BIBLIOTECA MATH =======-----
 
 
 
@@ -8,9 +8,9 @@
 
 local n1 = -3
 local num = 5.7
-local absoluto = math.abs(n1)
+local absoluto = math.abs(num)  -- transforma o número em positivo, ou seja, tranforma o número em absoluto
 
-
+print(absoluto)
 
 local int, frac = math.modf(num) --Nesse aqui você está separando a parte inteiro do numero com a fracionária.
 print(int, frac) -- 5     0.7
@@ -20,17 +20,16 @@ print(int, frac) -- 5     0.7
 
 
 
--- transforma o númeo em positivo.
 
 
 
 --===== Funções para Conjuto   =====--
 
-local n1 = 2
-local n2 = 3
-local n3 = 4
-local max = math.max(n1, n2, n3) --- maior valor 
-local min = math.min(n1, n2, n3)-- menor valor
+local n3 = 2
+local n4 = 3
+local n5 = 4
+local max = math.max(n3, n4, n5) --- maior valor 
+local min = math.min(n3, n4, n5)-- menor valor
 
 print(max, min)
 
@@ -41,11 +40,11 @@ print(max, min)
 -- Literalemente arredonda
 
 
-local n5 = 6.4
+local n6 = 6.4
 
-local cima = math.ceil(n5)
+local cima = math.ceil(n6)
 
-local baixo = math.floor(n5)
+local baixo = math.floor(n6)
 
 print(cima, baixo)
 
@@ -53,13 +52,17 @@ print(cima, baixo)
 
 --===== Funções Expoenciais =====--
 
+
+
 local n7 = 16
 
 local raiz = math.sqrt(n7) -- aqui é literalmente a raiz quadra
 
 print(raiz)
 
--- aqui:
+
+
+-- Sobre math.pow:
 --[[
 
 local valor = --math.pow(2, 2) -- aqui está literalmente ele 9 a 5

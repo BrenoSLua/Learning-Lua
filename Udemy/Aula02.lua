@@ -2,7 +2,7 @@
 
 -- outro tipos:. userdata . function . thread . table
 
-local valor -- esse valor é um  nil pois não tem nada/vazio
+local valor -- esse valor é nil pois não tem nada/vazio
 print(valor)
 
 local valor1 = 30 -- esse valor é NUMBER pois é um número 
@@ -17,8 +17,7 @@ print(valor3)
 
 --FUNÇÃO:  TYPE
 
-
--- Para saber o tipo de dado coloca-se: type() 
+-- Funciona para saber o tipo de dado, coloca-se: type() 
 --ex:
 
 local valor4 = 40
@@ -29,6 +28,8 @@ local valor5 = false
 print(type(valor5))
 
 -- vê o tipo do valor e retorna
+
+
 --também posso:
 
 local valor6 = 50

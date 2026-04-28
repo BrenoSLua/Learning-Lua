@@ -1,6 +1,6 @@
 -- CONVERSÃO DE STRING PARA NUMBER ( tonumber()  E NUMBER PARA STRING ( tostring() ).
 
--- string para nnumber (tonumber())
+-- string para number (tonumber())
 
 local n1 = "90"
 
@@ -18,6 +18,9 @@ print(type(n1), type(novo))
 
 
 ---------===========================================------------
+
+
+
 -- agora de number para texto: tostring
 
 local n2 = 40
@@ -64,9 +67,10 @@ print(20 + texto) --  Automaticamente Lua transforma 40 em number, mas se tivess
 
 
 ----
-
+--[[TEST
 
 local btr = "1010"
 
 local num  = tonumber(btr, 2) 
 print(num)
+]]
