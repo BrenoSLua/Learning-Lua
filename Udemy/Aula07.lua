@@ -1,5 +1,5 @@
 --===== BIBLIOTECA IO =====--
-
+--===== NOTA IMPORTANTE NO FINAL =====--
 
 --[[
 
@@ -72,3 +72,32 @@ print("O resultado e: ".. resultado)
 
 
 --===============--
+
+
+
+
+-- NOTA: 
+
+--sobre io.read(*n) usa-se mais se TODOS os DADOS for do tipo number SE
+-- NEM TODOS for number, usa a convesão tonumber
+-- POIS se for *n e o proximo ou qualquer outro dado for string, ira ser ignorado:
+
+
+print("Numero")
+
+local num2 = io.read("*n")
+
+print("texto")
+
+local str = io.read() -- ira pula/ignorar
+
+-- MAS se for tonumber, não ira
+
+
+print("Numero")
+
+local num2 = tonumber(io.read())
+
+print("texto")
+
+local str = io.read()
