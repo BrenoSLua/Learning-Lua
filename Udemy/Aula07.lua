@@ -76,6 +76,8 @@ print("O resultado e: ".. resultado)
 
 
 
+
+
 -- NOTA: 
 
 --sobre io.read(*n) usa-se mais se TODOS os DADOS for do tipo number SE
