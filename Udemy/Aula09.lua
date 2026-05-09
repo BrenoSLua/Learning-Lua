@@ -19,6 +19,12 @@
 
  local form = string.format("Meu nome e %s e tenho essa idade %d", name, age)
 
+--[[
+
+O %f permite números decimais, difrente do %d que  permite apenas inteiros, o  $.2f irá mostrar até a casa 2 do numero decimal 
+
+]]
+
  print(form)
 
  --- string.find() -- irá mostrar onde começa e termina a palavra
