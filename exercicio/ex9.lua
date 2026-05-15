@@ -22,8 +22,6 @@ n3 = string.gsub(n3, ",",".")
 
 
 
-
-
 local r1 = (n1 * 2) + n2 / 2
 print("Resultado 1: ".. r1)
 
