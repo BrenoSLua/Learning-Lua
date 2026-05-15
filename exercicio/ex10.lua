@@ -13,8 +13,10 @@ print("Quantos mega é a sua Internet: ")
 local Internet = io.read()
 Internet = string.gsub(Internet, ",",".")
 
-local re = download / (Internet / 8 )
+local velociade = download / (Internet / 8 )
 
-local minuto = re / 60
-local form = string.format("Seu dowload ira demorar aproximamente: %.2f minutos ou %.2f Segundos.", minuto, re)
+local minuto = velociade / 60
+
+
+local form = string.format("Seu dowload ira demorar aproximamente: %.2f minutos ou %.2f Segundos.", minuto,velociade)
 print(form)
