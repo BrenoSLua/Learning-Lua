@@ -63,7 +63,7 @@ print(type(texto1..n3))
 
 local texto3 = "40"
 
-print(20 + texto) --  Automaticamente Lua transforma 40 em number, mas se tivesse outro caracter/letra não funcionaria
+print(20 + texto3) --  Automaticamente Lua transforma 40 em number, mas se tivesse outro caracter/letra não funcionaria
 
 
 ----

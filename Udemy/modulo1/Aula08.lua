@@ -8,7 +8,7 @@ local jun  = str1..str2
 print(jun)-- irá aparecer já com espaço, por causa do str1
 
 --ou 
---local jun = str1.." "str2 
+--local jun = str1.." "..str2 
 
 -- quanto assim:
 

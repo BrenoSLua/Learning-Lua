@@ -18,7 +18,7 @@ print(type(dado))
 -- Mas se eu querer que for number?
 -- usa tonumber()
 
---[[
+
 
 print("Escreva um número: ")
 
@@ -27,7 +27,7 @@ local dado1 = tonumber(io.read())
 print("Seu número é: ".. dado1)
 print(type(dado1))
 
-]]
+
 
 
 ----=======

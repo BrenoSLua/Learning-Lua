@@ -78,9 +78,9 @@ print (valor)
 
 
 local ale = math.random(80) -- vai escolher um número aleatório entre 0 e 80
-local ale2 = math.random( 10, 50) --  vai escolher um número entra 10  e 
+local ale2 = math.random( 10, 50) --  vai escolher um número entra 10  e 50
 local ale3 = math.random (-10, 10) -- vai esclher um número aleatório entre -10 e 10
-local ale4 = math.random() -- vai esolher entr 0 e 1 pois não tem nada
+local ale4 = math.random() -- vai esolher entr 0 e 1 pois não tem nada.ex: 0,23564984561564
 print(ale4)
 
 

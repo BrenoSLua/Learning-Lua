@@ -34,7 +34,9 @@ print (var5, var6)
 ]]
 
 
---[[ menor iguual / maior igual]]
+--[[ menor iguual / maior igual
+
+]]
 
 local var7 = 5 <= 5
 local var8 = 5 >= 7
