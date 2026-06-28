@@ -95,4 +95,4 @@ print(math.huge) -- vai mostrar infinito (inf) (utiliza para meio ipoteticos ou 
 
 
 
----- TEM MAIS FUNÇÕES COMO AAS TRIGOMETRICAS, MAS AS MAIS IMPORTANTES SÃO ESSAS
+---- TEM MAIS FUNÇÕES COMO AS TRIGOMETRICAS, MAS AS MAIS IMPORTANTES SÃO ESSAS
